@@ -1,0 +1,105 @@
+.container {
+  width: 575px;
+  height: 385px;
+  background: #1B244A;
+  display: flex;
+  flex-direction: column;
+}
+
+p {
+  margin: 0;
+}
+
+/* .home-div {
+  display: inline;
+  align-items: center;
+} */
+
+#home {
+  font-family: 'Roboto', sans-serif;
+  width: 149px;
+  height: 36px;
+  display: inline-block;
+  margin-top: 68px;
+  margin-left: 85px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 36px;
+  background: #EEEEEE;
+
+}
+
+#guest {
+  font-family: 'Roboto', sans-serif;
+  display: inline-block;
+  width: 149px;
+  height: 36px;
+  margin-top: 68px;
+  margin-left: 340x;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 36px;
+  background: #EEEEEE;
+
+}
+
+.btn-num-row {
+ display: flex;
+}
+
+.row-1 {
+  /* width: 155px;
+  height: 120px;
+  margin-top: 45px;
+  margin-left: 82px;
+  border-radius: 5px;
+  background-color: black; */
+}
+
+.row-2 {
+  /* width: 155px;
+  height: 120px;
+  margin-top: 45px;
+  margin-left: 42px;
+  border-radius: 5px;
+  background-color: black; */
+}
+
+#btn-num1 {
+  font-family: 'Roboto', sans-serif;
+  width: 117px;
+  height: 120px;
+  margin-top: 25px;
+  margin-left: 82px;
+  background-color: black;
+  color: red;
+  font-size: 90px;
+  line-height: 127px;
+  font-weight: 400;
+}
+
+#btn-num2 {
+  font-family: 'Roboto', sans-serif;
+  width: 117px;
+  height: 120px;
+  margin-top: 25px;
+  margin-left: 82px;
+  background-color: black;
+  color: red;
+  font-size: 90px;
+  line-height: 127px;
+  font-weight: 400;
+}
+
+.btn-row {
+  display: inline;
+}
+
+.row-3 {
+  display: flex;
+}
+
+.btn-row3 {
+  margin-left: 95px;
+  margin-top: 15px;
+}
